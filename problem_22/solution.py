@@ -4,6 +4,7 @@ def problem_22():
 	names = sort_names(names)
 	score = iterate_names(names)
 	print score
+    print "fun"
 	return
 
 
